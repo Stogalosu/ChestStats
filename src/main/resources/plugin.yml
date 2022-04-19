@@ -2,3 +2,10 @@ name: ChestStats
 version: '${project.version}'
 main: ro.stecker.cheststats.Main
 api-version: 1.18
+commands:
+  gui:
+    description: Shows a gui to the player
+  add-sugar-cane:
+    description: Adds sugar cane to the gui
+  add-bedrock:
+    description: Adds bedrock to the gui
