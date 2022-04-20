@@ -9,3 +9,6 @@ commands:
     description: Adds sugar cane to the gui
   add-bedrock:
     description: Adds bedrock to the gui
+depend:
+  - BKCommonLib
+  - ProtocolLib
